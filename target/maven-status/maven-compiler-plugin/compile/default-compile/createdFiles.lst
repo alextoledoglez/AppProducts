@@ -1,0 +1,7 @@
+com\products\Backend\service\ProductService.class
+com\products\Backend\controller\IndexController.class
+com\products\Backend\controller\ProductsController.class
+com\products\Backend\service\ProductServiceImpl.class
+com\products\Backend\repository\ProductsRepository.class
+com\products\Backend\Application.class
+com\products\Backend\model\Product.class
